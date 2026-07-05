@@ -1,0 +1,10 @@
+Risk_desk/
+  package.json
+  package-lock.json
+  next.config.js
+  app/
+  components/
+  lib/
+  Dockerfile
+  docker-compose.yml
+  .dockerignore
